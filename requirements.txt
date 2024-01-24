@@ -1,0 +1,14 @@
+requests==2.25.1
+pip==23.0.1
+opencv-python
+numpy==1.24.2
+matplotlib==3.7.0
+pytesseract== 0.3.10
+pytest-shutil==1.7.0
+random2==1.0.1
+Pillow
+wheel
+flask
+gunicorn
+responses==0.23.1
+boto3==1.26.84
